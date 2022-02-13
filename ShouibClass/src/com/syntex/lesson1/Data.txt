@@ -1,0 +1,11 @@
+This class was taken on 13/02/2022
+
+Lesson contents;
+
++ The main method.
++ Hello world program.
++ Variables
++ Expressions 
+
+Class start: 2:00PM
+Class end: 3:00PM
