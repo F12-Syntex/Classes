@@ -1,0 +1,9 @@
+This class was taken on 13/02/2022
+
+Lesson contents;
+
++ More variables
++ For loops
+
+Class start: 1:17PM
+Class end: 2:00PM
